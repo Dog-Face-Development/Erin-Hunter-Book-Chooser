@@ -8,7 +8,8 @@ To install the app you can run it from the Python module or you can run the cx_F
  - Open the Erin Hunter Main Window.py file in Python.
  - Select Run>Run Module or press F5.
  - The app should open. If you have any issues please post them to the Issues page.
-###cx_Freeze (Executable File)
+### cx_Freeze (Executable File)
+
  - Download cx_Frezze if you have not allready from: https://sourceforge.net/projects/cx-freeze/?source=navbar
  - Copy the code after you have extracted it to this directory for Windows: C:/User/William
  - Open Command Prompt and type: python setup.py bdist_msi
