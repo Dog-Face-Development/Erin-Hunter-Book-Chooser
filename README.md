@@ -1,4 +1,4 @@
-# Erin-Hunter-Book-Chooser
+# Erin-Hunter-Book-Chooser - TEMPORARILY UNDER CONSTRUCTION
 This program will choose you most likley favorite Erin Hunter book based on your favorite animal. To by used in conunction with the Python module. It can also be run through cx_Freeze to create a .exe file.
 
 This app is currently in 1.0 Beta
