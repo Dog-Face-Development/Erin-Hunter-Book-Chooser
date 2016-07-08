@@ -1,6 +1,7 @@
 # Erin Hunter Book Selector - TEMPORARILY UNDER CONSTRUCTION
 This program will choose your favorite Erin Hunter authored book series based on your favorite of these three animals: Dogs, Cats, and Bears.
-This app has been written Python 3, proudly so please don't copy it! It is also released under the ___ License.
+
+This app has been written Python 3, proudly so please don't copy it! It is also released under the Apache 2.0 License.
 
 
 ## Installation and Operation
