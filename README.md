@@ -1,38 +1,51 @@
 # Erin Hunter Book Selector - TEMPORARILY UNDER CONSTRUCTION
 This program will choose your favorite Erin Hunter authored book series based on your favorite of these three animals: Dogs, Cats, and Bears.
 
-This app has been written Python 3, proudly so please don't copy it! It is also released under the Apache 2.0 License.
+This program has been written in Python three and works in Python 3.
 
 
 ## Installation and Operation
-You can choose to either run the applacation from the Python Module or create and executable program using cx_Freeze.
 
-### Run Through the Python Module
- - Donload Python if you haven't already: [Python for Windows](https://www.python.org/downloads/)
- - Open the Erin Hunter Main Window.py file in Python.
- - Select Run>Run Module or press F5.
- - The app should open. More instructions below.
 
-### Create and Executable File with cx_Freeze
- - Download cx_Frezze if you have not allready from this link: [cx Freeze Download Link](https://sourceforge.net/projects/cx-freeze/?source=navbar) 
- - Copy the code after you have extracted it to this directory for Windows: 
- C:\Users\YOUR_USERNAME 
- - Open Command Prompt and type the following command:
- ```
- python setup.py bdist_msi
- ```
- - Run the .msi file that the process will create in a dit sub-directory.
- - Run the exe and the app will open. More instructions below.
+### Through the Python Module (IDLE)
+ -	Download the Python module if you haven’t already: [Download Link](https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe), and install it,
+ -	Extract files from your GitHub Download,
+ -	Open the Erin Hunter Book Chooser Main Windows.py file in the Python Module (IDLE),
+ -	Select Run>Run Module, or press F5 in the Edit Window of IDLE,
+ -	And the app will open for you to use!
 
- 
+### Creating a Executable File Through cx_Freeze (Windows Only)
+-	Download cx_Freeze if you haven’t already: [Download Link](https://pypi.python.org/packages/b7/64/2e8bbd862e72253d0aee6e69a30e06af1baa11bcc96c1ffb2a4303fb6b23/cx_Freeze-4.3.4.win32-py3.4.exe#md5=bd087416c69ced533768a22e5d3414b8), and install it,
+-	Extract the files from your GitHub download to this location on your computer: C:\Users\YOUR_USERNAME,
+-	Open Command Prompt and type the following command:
+```
+Python setup.py bdist_msi
+```
+-	Run the .msi file that the process creates in a dist sub-directory to create an executable,
+-	Run the executable and the app will open for you to use!
+
+
 ## Use Instructions
-- Select one of the animals that appear.
-- The program will return with the series that is best for you.
+- Select one of the animals that appears in the list.
+- The program will return with the best series for your animal choice.
+
+Selection Table:
+
+Dog ==== Survivors by Erin Hunter
+
+Cat ==== Warriors by Erin Hunter
+
+Bear ==== Seekers by Erin Hunter
 
 
-## Bugs, Issues and Releases
-If you experience any bugs or issues feel free to report them to me on the issues page.
+##Releases
+The current release is 1.0.0 (with a draft of 2.0.0). The next release, version 3.0.0 is coming out soon with the following features: 
+- Fixing all of the current run time problems
+- Bug and Issue Fixes
 
-Your suggestions are always welcome and can be voiced to me through creating a Pull Request.
+Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
-The current release is 1.5, but a new release with lot's of bug fixes and new features will come out in the new and upcomming 2.0 update.
+
+## Bugs, and Issues
+Who likes bugs? If you’ve found any feel free to let me know on the issues page and I will make sure to fix them in short order, and release those fixes in new releases.
+
