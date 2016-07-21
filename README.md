@@ -39,7 +39,7 @@ Bear ==== Seekers by Erin Hunter
 
 
 ##Releases
-The current release is 1.0.0 (with a draft of 2.0.0). The next release, version 3.0.0 is coming out soon with the following features: 
+The current release is 1.0 (with a draft of 2.0). The next release, version 3.0 is coming out soon with the following features: 
 - Fixing all of the current run time problems
 - Bug and Issue Fixes
 
