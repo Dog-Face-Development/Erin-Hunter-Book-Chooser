@@ -5,7 +5,7 @@ base = None
 if sys.platform == 'win32' : base = 'Win32GUI'
 
 setup( name = 'Erin Hunter Book Chooser' ,
-            version = '1.0' ,
+            version = '3.0' ,
            description = 'Choose\'s Erin Hunter books.' ,
            author = 'William Vandergraaf' ,
            option = { 'build_exe' : opts } ,
