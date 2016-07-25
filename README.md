@@ -27,6 +27,9 @@ Python setup.py bdist_msi
 
 ## Use Instructions
 - Select one of the animals that appears in the list.
+
+![Starting the Program](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/Screenshot%201.PNG)
+
 - The program will return with the best series for your animal choice.
 
 Selection Table:
@@ -36,6 +39,10 @@ Dog ==== Survivors by Erin Hunter
 Cat ==== Warriors by Erin Hunter
 
 Bear ==== Seekers by Erin Hunter
+
+
+![Your Selection Result](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/Screenshot%202.PNG)
+
 
 
 ##Releases
