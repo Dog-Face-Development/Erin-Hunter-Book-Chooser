@@ -1,7 +1,7 @@
-# Erin Hunter Book Selector - TEMPORARILY UNDER CONSTRUCTION
+# Erin Hunter Book Chooser
 This program will choose your favorite Erin Hunter authored book series based on your favorite of these three animals: Dogs, Cats, and Bears.
 
-This program has been written in Python three and works in Python 3.
+This program has been written in Python three and works in Python 3.5 or higher.
 
 
 ## Installation and Operation
@@ -39,9 +39,8 @@ Bear ==== Seekers by Erin Hunter
 
 
 ##Releases
-The current release is 1.0 (with a draft of 2.0). The next release, version 3.0 is coming out soon with the following features: 
-- Fixing all of the current run time problems
-- Bug and Issue Fixes
+The current release is 3.0. The next release, version 3.1 is coming out soon with the following features: 
+- To be determined
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
