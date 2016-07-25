@@ -9,5 +9,5 @@ setup( name = 'Erin Hunter Book Chooser' ,
            description = 'Choose\'s Erin Hunter books.' ,
            author = 'William Vandergraaf' ,
            option = { 'build_exe' : opts } ,
-           executable = [ Executable( "Erin Hunter Book Chooser.py" , base = base ) ] )
+           executable = [ Executable( "Erin Hunter Book Chooser Main Window.py" , base = base ) ] )
                       
