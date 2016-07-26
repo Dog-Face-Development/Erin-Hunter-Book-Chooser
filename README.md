@@ -1,6 +1,8 @@
 # Erin Hunter Book Chooser
 
 [![Join the chat at https://gitter.im/Dog-Face-Development/Erin-Hunter-Book-Chooser](https://badges.gitter.im/Dog-Face-Development/Erin-Hunter-Book-Chooser.svg)](https://gitter.im/Dog-Face-Development/Erin-Hunter-Book-Chooser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 This program will choose your favorite Erin Hunter authored book series based on your favorite of these three animals: Dogs, Cats, and Bears.
 
 This program has been written in Python three and works in Python 3.5 or higher.
