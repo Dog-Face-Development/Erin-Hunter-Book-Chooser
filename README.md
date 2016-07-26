@@ -50,7 +50,7 @@ Bear ==== Seekers by Erin Hunter
 
 
 ##Releases
-The current release is 3.1. The next release, version 3.2 is coming out soon with the following features: 
+The current release is 3.5. The next release, version 3.6 is coming out soon with the following features: 
 - To be determined
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
