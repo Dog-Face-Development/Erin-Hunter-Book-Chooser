@@ -59,3 +59,10 @@ Your Pull Requests for new features are always welcome! Look to see some of your
 ## Bugs, and Issues
 Who likes bugs? If you’ve found any feel free to let me know on the issues page and I will make sure to fix them in short order, and release those fixes in new releases.
 
+
+## Maintainer
+@willtheorageguy
+
+
+## A Quick Note
+The reason why (if you where wondering) none of the pull requests go through Travis CI or Circle CI before getting merged is because, first, I haven’t really figured it out yet (I’d love some help), second, the project is so small I don’t really need it (but I’d like it), third, I like testing out the builds myself, so it fits really well. An that’s why!
