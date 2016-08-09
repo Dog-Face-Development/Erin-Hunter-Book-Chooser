@@ -64,5 +64,15 @@ Who likes bugs? If you’ve found any feel free to let me know on the issues pag
 @willtheorageguy
 
 
+## License
+This software has been released as open source under the GNU General Public License v3.0 license. 
+You can view the license in the [LICENSE.md](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/LICENSE.md) file in this projects repository.
+Please adhere to this license when using, distributing, and making changes to the software.
+
 ## A Quick Note
 The reason why (if you where wondering) none of the pull requests go through Travis CI or Circle CI before getting merged is because, first, I haven’t really figured it out yet (I’d love some help), second, the project is so small I don’t really need it (but I’d like it), third, I like testing out the builds myself, so it fits really well. An that’s why!
+
+
+## Other Links
+Visit these other links to learn more about the Erin Hunter Book Chooser:
+The Website, [Latest Version Download](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/archive/master.zip), [Issues Page](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/issues), [Pull Request Page](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/pulls), [Wiki](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/wiki), and Documentation.
