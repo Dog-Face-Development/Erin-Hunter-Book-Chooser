@@ -12,14 +12,14 @@ This program has been written in Python three and works in Python 3.5 or higher.
 
 
 ### Through the Python Module (IDLE)
- -	Download the Python module if you haven’t already: [Download Link](https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe), and install it,
+ -	Download the Python module if you haven’t already: [Download Link](https://www.python.org/downloads/), and install it,
  -	Extract files from your GitHub Download,
  -	Open the Erin Hunter Book Chooser Main Windows.py file in the Python Module (IDLE),
  -	Select Run>Run Module, or press F5 in the Edit Window of IDLE,
  -	And the app will open for you to use!
 
 ### Creating a Executable File Through cx_Freeze (Windows Only)
--	Download cx_Freeze if you haven’t already: [Download Link](https://pypi.python.org/packages/b7/64/2e8bbd862e72253d0aee6e69a30e06af1baa11bcc96c1ffb2a4303fb6b23/cx_Freeze-4.3.4.win32-py3.4.exe#md5=bd087416c69ced533768a22e5d3414b8), and install it,
+-	Download cx_Freeze if you haven’t already: [Download Link](https://pypi.python.org/packages/38/ae/2cf4f13f42d54b01e26b0b713298722b351ca5a2408b2a77953be67ffb25/cx_Freeze-5.0.win32-py3.5.exe#md5=05e531d442cb9e27d093ca1ee37a03f4), and install it,
 -	Extract the files from your GitHub download to this location on your computer: C:\Users\YOUR_USERNAME,
 -	Open Command Prompt and type the following command:
 ```
