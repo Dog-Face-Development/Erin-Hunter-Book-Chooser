@@ -1,6 +1,12 @@
 # Erin Hunter Book Chooser
 
 [![Join the chat at https://gitter.im/Dog-Face-Development/Erin-Hunter-Book-Chooser](https://badges.gitter.im/Dog-Face-Development/Erin-Hunter-Book-Chooser.svg)](https://gitter.im/Dog-Face-Development/Erin-Hunter-Book-Chooser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![Total Downloads](https://img.shields.io/github/downloads/Dog-Face-Development/Erin-Hunter-Book-Chooser/total.svg)
+![Release Version](https://img.shields.io/github/release/Dog-Face-Development/Erin-Hunter-Book-Chooser.svg)
+![Issues](https://img.shields.io/github/issues/Dog-Face-Development/Erin-Hunter-Book-Chooser.svg)
+![Pull Requests](https://img.shields.io/github/issues-pr/Dog-Face-Development/Erin-Hunter-Book-Chooser.svg)
+![Contributors](https://img.shields.io/github/contributors/Dog-Face-Development/Erin-Hunter-Book-Chooser.svg)
+![License](https://img.shields.io/github/license/Dog-Face-Development/Erin-Hunter-Book-Chooser.svg)
 
 
 This program will choose your favorite Erin Hunter authored book series based on your favorite of these three animals: Dogs, Cats, and Bears.
