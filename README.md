@@ -36,13 +36,13 @@ Python setup.py bdist_msi
 
 - The program will return with the best series for your animal choice.
 
-Selection Table:
+### Selection Table:
 
-Dog ==== Survivors by Erin Hunter
-
-Cat ==== Warriors by Erin Hunter
-
-Bear ==== Seekers by Erin Hunter
+| Animal | Book Series |
+|--------|-------------|
+| Dogs| Survivors by Erin Hunter|
+| Bears | Seekers by Erin Hunter|
+| Cats | Warriors by Erin Hunter|
 
 
 ![Your Selection Result](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/Screenshot%202.PNG)
