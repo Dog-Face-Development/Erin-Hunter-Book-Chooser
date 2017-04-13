@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/github/license/Dog-Face-Development/Erin-Hunter-Book-Chooser.svg)
 
 
-This program will choose your favorite Erin Hunter authored book series based on your favorite of these three animals: Dogs, Cats, and Bears.
+This program will choose your favorite Erin Hunter authored book series based on your favorite animal.
 
 This program has been written in Python three and works in Python 3.5 or higher.
 
