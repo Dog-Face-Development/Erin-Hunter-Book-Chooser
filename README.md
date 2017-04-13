@@ -16,7 +16,6 @@ This program has been written in Python three and works in Python 3.5 or higher.
 
 ## Installation and Operation
 
-
 ### Through the Python Module (IDLE)
  -	Download the Python module if you haven’t already: [Download Link](https://www.python.org/downloads/), and install it,
  -	Extract files from your GitHub Download,
@@ -46,18 +45,20 @@ Python setup.py bdist_msi
 
 | Animal | Book Series |
 |--------|-------------|
-| Dogs| Survivors by Erin Hunter|
-| Bears | Seekers by Erin Hunter|
-| Cats | Warriors by Erin Hunter|
-
+| Dogs | Survivors by Erin Hunter |
+| Bears | Seekers by Erin Hunter |
+| Cats | Warriors by Erin Hunter |
+| Lions | Bravelands by Erin Hunter |
+| Elephants | Bravelands by Erin Hunter |
+| Baboons | Bravelands by Erin Hunter |
 
 ![Your Selection Result](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/Screenshot%202.PNG)
 
 
 
-##Releases
-The current release is 3.5. The next release, version 3.6 is coming out soon with the following features: 
-- To be determined
+## Releases
+The current release is 4.0. The next release, version 4.1 is coming out soon with the following features: 
+- TBA
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
@@ -67,7 +68,7 @@ Who likes bugs? If you’ve found any feel free to let me know on the issues pag
 
 
 ## Maintainer
-@willtheorageguy
+- [@willtheorangeguy](https://github.com/willtheorangeguy)
 
 
 ## License
