@@ -4,7 +4,7 @@ import sys
 
 setup(
     name='Erin Hunter Book Chooser',
-    version='4.0',
+    version='5.0',
     author = 'William Vandergraaf',
     author_email = 'willtheorangeguy@outlook.com',
     url = 'https://github.com/dog-face-development/erin-hunter-book-chooser',

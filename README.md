@@ -1,4 +1,4 @@
-# Erin Hunter Book Chooser
+﻿# Erin Hunter Book Chooser
 
 [![Join the chat at https://gitter.im/Dog-Face-Development/Erin-Hunter-Book-Chooser](https://badges.gitter.im/Dog-Face-Development/Erin-Hunter-Book-Chooser.svg)](https://gitter.im/Dog-Face-Development/Erin-Hunter-Book-Chooser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Total Downloads](https://img.shields.io/github/downloads/Dog-Face-Development/Erin-Hunter-Book-Chooser/total.svg)
@@ -11,7 +11,7 @@
 
 This program will choose your favorite Erin Hunter authored book series based on your favorite animal.
 
-This program has been written in Python three and works in Python 3.5 or higher.
+This program has been written in Python 3 and works in Python 3.5 or higher.
 
 
 ## Installation and Operation
@@ -57,8 +57,11 @@ Python setup.py bdist_msi
 
 
 ## Releases
-The current release is 4.0. The next release, version 4.1 is coming out soon with the following features: 
-- TBA
+The current release is 5.0. The next release, version 6.0 is coming out soon with the following features: 
+- Pictures of the series'.
+- Links to the series' websites.
+- Logo for the app.
+- New documentation.
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
