@@ -2,6 +2,7 @@ from tkinter import *
 import tkinter.messagebox as box
 
 window = Tk()
+window.iconbitmap("favicon.ico")
 window.title("Erin Hunter Book Chooser")
 
 # Text Window
