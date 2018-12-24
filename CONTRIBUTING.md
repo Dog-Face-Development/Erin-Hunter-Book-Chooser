@@ -31,7 +31,7 @@ To make the contribution process a success please follow these simple steps to g
 
 To make the issue process a success please follow these simple steps to get started:
 
-1. Go to the [issues page](https://github.com/Dog-Face-Development/Bars/issues) for this repo.
+1. Go to the [issues page](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/issues) for this repo.
 2. Check to see if your issue has already been posted.
 3. Click the green *New Issue* button.
 4. Create issue following the issue template that can be found [here](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/ISSUE_TEMPLATE.md).
@@ -42,4 +42,4 @@ To make the issue process a success please follow these simple steps to get star
 Erin Hunter Book Chooser (and all DFD projects) uses Travis-CI for its testing. When you submit a pull request Travis-CI will automatically check to see if your build complies and will run correctly on our users computers.
 
 **FINE PRINT:**
-By submitting your code you agree that you have the right to that code (you are the owner of the code & changes) and that your contributions are licensed under the MIT license.
+By submitting your code you agree that you have the right to that code (you are the owner of the code & changes) and that your contributions are licensed under the GNU General Public License v3.0.
