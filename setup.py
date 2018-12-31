@@ -1,4 +1,4 @@
-# Copyright (C) 2016 - 2018 Dog Face Development Company
+# Copyright (C) 2016 - 2019 Dog Face Development Co.
 
 import sys
 from cx_Freeze import setup, Executable
@@ -14,4 +14,3 @@ setup( name = 'Erin Hunter Book Chooser' ,
        author = 'William Vandergraaf' ,
        option = { 'build_exe' : opts } ,
        executable = [ Executable( "Erin Hunter Book Chooser Main Window.py" , base = base ) ] )
-                      

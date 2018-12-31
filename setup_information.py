@@ -1,9 +1,9 @@
-# Copyright (C) 2016 - 2018 Dog Face Development Company
+# Copyright (C) 2016 - 2019 Dog Face Development Company
 
 import setup
 import os
 
-setup(
+(
     name='Erin Hunter Book Chooser',
     version='5.0',
     author = 'William Vandergraaf',
