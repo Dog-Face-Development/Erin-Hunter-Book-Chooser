@@ -8,7 +8,7 @@ Things in version info lists that are *italicized* are possible additions/change
 
 
 
-### Version 1.6 - *In Progress, Release Date: end of 2017*
+### Version 1.6 - *In Progress, Release Date: end of 2020*
 
 
  - [ ] Bug and Issue fixes
