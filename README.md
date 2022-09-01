@@ -20,7 +20,7 @@ This program has been written in Python three and works in Python 3.5 or higher.
 ## Use Instructions
 - Select one of the animals that appears in the list.
 
-![Starting the Program](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/Screenshot%201.PNG)
+![Starting the Program](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/doc/main.PNG)
 
 - The program will return with the best series for your animal choice.
 
@@ -35,7 +35,7 @@ This program has been written in Python three and works in Python 3.5 or higher.
 | Elephants | Bravelands by Erin Hunter | warriorcats.com/bravelands |
 | Baboons | Bravelands by Erin Hunter | warriorcats.com/bravelands |
 
-![Your Selection Result](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/Screenshot%202.PNG)
+![Your Selection Result](https://github.com/Dog-Face-Development/Erin-Hunter-Book-Chooser/blob/master/doc/result.PNG)
 
 ## Releases
 The current release is 5.0. The next release, version 6.0 is coming out soon with the following features: 
