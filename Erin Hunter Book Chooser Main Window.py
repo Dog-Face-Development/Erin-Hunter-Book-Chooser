@@ -1,11 +1,14 @@
+# Copyright (C) 2016 - 2022 Dog Face Development Co.
+
 from tkinter import *
 import tkinter.messagebox as box
 
 window = Tk()
+window.iconbitmap("favicon.ico")
 window.title("Erin Hunter Book Chooser")
 
 # Text Window
-label = Label( window, font = ("architects daughter", 11, "normal"), text = "Welcome to the Erin Hunter Book Chooser.\nPlease select your favorite animal below and the app will select your favorite Erin Hunter authored book.\n You can visit the website link displayed to learn more afterwards.")
+label = Label( window, font = ("architects daughter", 11, "normal"), text = "\n\n\n\nWelcome to the Erin Hunter Book Chooser.\nPlease select your favorite animal below and the app will select your favorite Erin Hunter authored book.\n You can visit the website link displayed to learn more afterwards.")
             
 label.pack( padx = 200, pady = 25 )
 
@@ -50,4 +53,3 @@ radio_6.pack(side = LEFT)
 frame.pack( padx = 30, pady = 15 )
 
 window.mainloop()
-    
